@@ -1,0 +1,295 @@
+/*unvisited link*/
+a:link {
+	color: blue;
+}
+
+/*Mouse over link*/
+
+a:hover {
+	color: blue;
+}
+
+/*visited link*/
+a:visited {
+	color:#4D417E;
+}
+
+/*Intro/Section One*/
+#name {
+	color: black;
+	margin-left: 20px;
+	font-family: georgia;
+	font-weight: lighter;
+}
+
+hr {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#disclaimer{
+	font-size:13px;
+}
+
+
+p {
+	font-family:arial;
+	font-size: 15px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#disclaimer {
+	margin-left: 20px;
+}
+
+#p1 {
+	margin-left: 20px;
+}
+
+#p2 {
+	margin-left: 20px;
+	padding-bottom: 30px;
+}
+
+/*Table of Contents/Section Two*/
+
+#tableofcontents{
+	font-size:13px;
+	font-family: arial;
+	margin-left: 20px;
+	border-style: solid;
+	border-width: 1px;
+	margin-right: 750px;
+	background-color:#F5F7F9;
+}
+
+#content {
+	padding-top: 1px;
+	padding-bottom: 1px;
+	text-align: center;
+	
+}
+
+#earlylife {
+	padding-bottom:15px;
+}
+
+#lyricalthemes {
+	padding-bottom: 15px;
+}
+
+#personallife {
+	padding-bottom: 15px;
+}
+
+#disco {
+	padding-bottom: 15px;
+}
+
+#tours {
+	padding-bottom: 15px;
+}
+
+#awards {
+	padding-bottom: 15px;
+}
+
+#tv {
+	padding-bottom: 15px;
+}
+
+#references {
+	padding-bottom: 15px;
+}
+
+#external {
+	padding-bottom: 15px;
+}
+
+/*Section Three*/
+
+#h12 {
+	margin-left: 20px;
+	font-family: georgia;
+	font-size: 22px;
+	font-weight: lighter;
+	padding-top: 15px;
+}
+
+#h13 {
+	margin-left: 20px;
+	font-family: georgia;
+	font-size: 22px;
+	font-weight: lighter;
+	padding-top: 15px;
+}
+
+#differentpark {
+	margin-left: 20px;
+	font-family: arial;
+	font-size:18px;
+}
+
+#fig1 {
+  float: left;
+  width: 30%;
+  text-align: center;
+  font-family: arial;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+  background-color:#F5F7F9; 
+}
+
+#Christmas {
+	margin-left: 20px;
+	font-family: arial;
+	font-size: 18px;
+}
+
+#golden {
+	margin-left: 20px;
+	font-family: arial;
+	font-size: 18px;
+}
+
+#h14 {
+	margin-left: 20px;
+	font-family: georgia;
+	font-size: 22px;
+	font-weight: lighter;
+	padding-top: 15px;
+}
+
+#inspire {
+	margin-left: 20px;
+	font-family: arial;
+	font-size: 18px;
+}
+
+#h15 {
+	margin-left: 20px;
+	font-family: georgia;
+	font-size: 22px;
+	font-weight: lighter;
+	padding-top: 15px;
+}
+
+#h16 {
+	margin-left: 20px;
+	font-family: georgia;
+	font-size: 22px;
+	font-weight: lighter;
+	padding-top: 15px;
+}
+
+#h17 {
+	margin-left: 20px;
+	font-family: georgia;
+	font-size: 22px;
+	font-weight: lighter;
+	padding-top: 15px;
+}
+
+ul {
+	font-family: arial;
+	font-size: 14px;
+}
+
+#h18 {
+	margin-left: 20px;
+	font-family: georgia;
+	font-size: 22px;
+	font-weight: lighter;
+	padding-top: 15px;
+}
+
+#head {
+	margin-left: 20px;
+	font-family: arial;
+	font-size: 16px;
+}
+
+#opening {
+	margin-left: 20px;
+	font-family: arial;
+	font-size: 16px;
+}
+
+#h19 {
+	margin-left: 20px;
+	font-family: georgia;
+	font-size: 22px;
+	font-weight: lighter;
+	padding-top: 15px;
+}
+
+#refer{
+	column-count: 2;
+	font-size: 11px;
+
+}
+
+/*Main*/
+
+#h200 {
+	font-family: arial;
+	font-size: 18px;
+}
+
+#maincaption {
+	font-size:12px;
+	font-family: arial;
+}
+
+#ugh {
+	text-align: center;
+	font-size: 15px;
+}
+
+#main {
+	float: right;
+  	width: 30%;
+  	height: 50%;
+  	text-align: center;
+  	font-family: arial;
+ 	text-indent: 0;
+  	border: thin silver solid;
+  	margin-left: 15px;
+  	margin-right: 0.5px;
+  	padding-top: 0.5px;
+  	background-color:#F5F7F9; 
+}
+
+
+#born {
+	font-size: 15px;
+	text-align: left;
+}
+
+#job {
+	font-size: 15px;
+	text-align: left;
+}
+
+#husband {
+	font-size: 15px;
+	text-align: left;
+}
+
+#noises {
+	font-size: 15px;
+	text-align: left;
+}
+
+#others {
+	font-size: 15px;
+	text-align: left;
+}
+
+#web {
+	font-size: 15px;
+	text-align: left;
+}
